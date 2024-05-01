@@ -1,0 +1,25 @@
+h1 {
+  font-size: 20px;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  left: 50px;
+}
+
+.box-design {
+  width: 250px;
+  height: 200px;
+  background-color: black;
+}
+.set-color {
+  background-color: red;
+}
+
+.box-5 {
+  width: 300px;
+  height: 100px;
+  background-color: pink;
+}
